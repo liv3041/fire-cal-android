@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FireCalculator">
         <activity
-            android:name=".LoginActivity"
+            android:name=".AuthActivity"
             android:exported="false">
 
         </activity>
